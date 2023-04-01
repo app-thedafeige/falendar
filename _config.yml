@@ -58,7 +58,7 @@ features                                  :
     fontawesome_icon_name                 : birthday-cake
 
   - title                                 : ALTERNATE CALENDAR & HOLIDAYS
-    description                           : Support Chinese, Japanese, Buddhist, Islamic, Hebrew, Persian, Indian, Ethiopian, and Coptic calendars. Support Chinese and Hebrew holidays.
+    description                           : Support Chinese, Japanese, Buddhist, Islamic, Hebrew, Persian, Indian, Ethiopian, and Coptic calendars. \nSupport Chinese and Hebrew holidays.
     fontawesome_icon_name                 : globe
 
 
