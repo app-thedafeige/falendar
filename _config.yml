@@ -43,7 +43,7 @@ features                                  :
 
   - title                                 : SAFE
     description                           : All data is saved in system calendar and contacts.
-    fontawesome_icon_name                 : shield-check
+    fontawesome_icon_name                 : shield-alt
 
   - title                                 : CUSTOMIZABLE
     description                           : Custom repeat rules, end rules, up to 5 alerts.
@@ -51,7 +51,7 @@ features                                  :
 
   - title                                 : ORGANIZED
     description                           : Events, birthdays, anniversaries, due dates.
-    fontawesome_icon_name                 : line-columns
+    fontawesome_icon_name                 : columns
 
   - title                                 : NON-GREGORIAN BIRTHDAYS
     description                           : Chinese, Islamic and Hebrew birthdays.
