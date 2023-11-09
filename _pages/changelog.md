@@ -6,21 +6,33 @@ include_in_header: true
 
 # Changelog
 
-## **V1.0.3**
+## **V1.1.0(1)**
 
-### `Latest`
+English
+
+- Optimize calendar sliding lag issue
+- Use new app icon
+- Add holiday data in mainland China in 2024
+
+简体中文
+
+- 优化日历滑动卡顿问题
+- 添加2024年中国大陆节假日调休数据
+- 使用新图标
+
+## **V1.0.3(1)**
 
 Support Islamic calendar, Hebrew calendar, Persian calendar, Indian calendar, Ethiopian calendar, Coptic calendar.
 
 支持伊斯兰历、希伯来历、波斯历、印度历、埃塞俄比亚历、科普特历。
 
-## **V1.0.2**
+## **V1.0.2(2)**
 
 Support Japanese Calendar & Buddhist Calendar.
 
 支持日本历和佛历。
 
-## **V1.0.1**
+## **V1.0.1(15)**
 
 Falendar is a simple and easy to use calendar.
 
