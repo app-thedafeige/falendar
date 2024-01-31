@@ -6,15 +6,25 @@ include_in_header: true
 
 # Changelog
 
+## **V1.1.1(1)**
+
+Mon, Jan 29, 2024
+
+- Support widgets
+
+2024.1.29 周一
+
+- 支持桌面小组件
+
 ## **V1.1.0(1)**
 
-English
+Wed, Nov 8, 2023
 
 - Optimize calendar sliding lag issue
 - Use new app icon
 - Add holiday data in mainland China in 2024
 
-简体中文
+2023.11.8 周三
 
 - 优化日历滑动卡顿问题
 - 添加2024年中国大陆节假日调休数据
@@ -22,17 +32,27 @@ English
 
 ## **V1.0.3(1)**
 
+Fri, Mar 3, 2023
+
 Support Islamic calendar, Hebrew calendar, Persian calendar, Indian calendar, Ethiopian calendar, Coptic calendar.
+
+2023.3.3 周五
 
 支持伊斯兰历、希伯来历、波斯历、印度历、埃塞俄比亚历、科普特历。
 
 ## **V1.0.2(2)**
 
+Wed, Mar 1, 2023
+
 Support Japanese Calendar & Buddhist Calendar.
+
+2023.3.1 周三
 
 支持日本历和佛历。
 
 ## **V1.0.1(15)**
+
+Sat, Feb 25, 2023
 
 Falendar is a simple and easy to use calendar.
 
@@ -42,6 +62,8 @@ Falendar is a simple and easy to use calendar.
 - ORGANIZED: Events, birthdays, anniversaries, due dates.
 - NON-GREGORIAN BIRTHDAYS: Chinese, Islamic and Hebrew birthdays.
 - ALTERNATE CALENDAR: Chinese calendar and holidays.
+
+2023.2.25 周六
 
 Falendar 是一个简洁易用的日历。
 
